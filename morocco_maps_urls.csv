@@ -1,0 +1,181 @@
+City,Category,URL
+Casablanca,restaurants,https://www.google.com/maps/search/restaurants+Casablanca/
+Casablanca,hotels,https://www.google.com/maps/search/hotels+Casablanca/
+Casablanca,pharmacies,https://www.google.com/maps/search/pharmacies+Casablanca/
+Casablanca,supermarkets,https://www.google.com/maps/search/supermarkets+Casablanca/
+Casablanca,cafes,https://www.google.com/maps/search/cafes+Casablanca/
+Casablanca,schools,https://www.google.com/maps/search/schools+Casablanca/
+Casablanca,hospitals,https://www.google.com/maps/search/hospitals+Casablanca/
+Casablanca,gyms,https://www.google.com/maps/search/gyms+Casablanca/
+Casablanca,malls,https://www.google.com/maps/search/malls+Casablanca/
+Casablanca,banks,https://www.google.com/maps/search/banks+Casablanca/
+Rabat,restaurants,https://www.google.com/maps/search/restaurants+Rabat/
+Rabat,hotels,https://www.google.com/maps/search/hotels+Rabat/
+Rabat,pharmacies,https://www.google.com/maps/search/pharmacies+Rabat/
+Rabat,supermarkets,https://www.google.com/maps/search/supermarkets+Rabat/
+Rabat,cafes,https://www.google.com/maps/search/cafes+Rabat/
+Rabat,schools,https://www.google.com/maps/search/schools+Rabat/
+Rabat,hospitals,https://www.google.com/maps/search/hospitals+Rabat/
+Rabat,gyms,https://www.google.com/maps/search/gyms+Rabat/
+Rabat,malls,https://www.google.com/maps/search/malls+Rabat/
+Rabat,banks,https://www.google.com/maps/search/banks+Rabat/
+Agadir,restaurants,https://www.google.com/maps/search/restaurants+Agadir/
+Agadir,hotels,https://www.google.com/maps/search/hotels+Agadir/
+Agadir,pharmacies,https://www.google.com/maps/search/pharmacies+Agadir/
+Agadir,supermarkets,https://www.google.com/maps/search/supermarkets+Agadir/
+Agadir,cafes,https://www.google.com/maps/search/cafes+Agadir/
+Agadir,schools,https://www.google.com/maps/search/schools+Agadir/
+Agadir,hospitals,https://www.google.com/maps/search/hospitals+Agadir/
+Agadir,gyms,https://www.google.com/maps/search/gyms+Agadir/
+Agadir,malls,https://www.google.com/maps/search/malls+Agadir/
+Agadir,banks,https://www.google.com/maps/search/banks+Agadir/
+Marrakech,restaurants,https://www.google.com/maps/search/restaurants+Marrakech/
+Marrakech,hotels,https://www.google.com/maps/search/hotels+Marrakech/
+Marrakech,pharmacies,https://www.google.com/maps/search/pharmacies+Marrakech/
+Marrakech,supermarkets,https://www.google.com/maps/search/supermarkets+Marrakech/
+Marrakech,cafes,https://www.google.com/maps/search/cafes+Marrakech/
+Marrakech,schools,https://www.google.com/maps/search/schools+Marrakech/
+Marrakech,hospitals,https://www.google.com/maps/search/hospitals+Marrakech/
+Marrakech,gyms,https://www.google.com/maps/search/gyms+Marrakech/
+Marrakech,malls,https://www.google.com/maps/search/malls+Marrakech/
+Marrakech,banks,https://www.google.com/maps/search/banks+Marrakech/
+Tangier,restaurants,https://www.google.com/maps/search/restaurants+Tangier/
+Tangier,hotels,https://www.google.com/maps/search/hotels+Tangier/
+Tangier,pharmacies,https://www.google.com/maps/search/pharmacies+Tangier/
+Tangier,supermarkets,https://www.google.com/maps/search/supermarkets+Tangier/
+Tangier,cafes,https://www.google.com/maps/search/cafes+Tangier/
+Tangier,schools,https://www.google.com/maps/search/schools+Tangier/
+Tangier,hospitals,https://www.google.com/maps/search/hospitals+Tangier/
+Tangier,gyms,https://www.google.com/maps/search/gyms+Tangier/
+Tangier,malls,https://www.google.com/maps/search/malls+Tangier/
+Tangier,banks,https://www.google.com/maps/search/banks+Tangier/
+Fez,restaurants,https://www.google.com/maps/search/restaurants+Fez/
+Fez,hotels,https://www.google.com/maps/search/hotels+Fez/
+Fez,pharmacies,https://www.google.com/maps/search/pharmacies+Fez/
+Fez,supermarkets,https://www.google.com/maps/search/supermarkets+Fez/
+Fez,cafes,https://www.google.com/maps/search/cafes+Fez/
+Fez,schools,https://www.google.com/maps/search/schools+Fez/
+Fez,hospitals,https://www.google.com/maps/search/hospitals+Fez/
+Fez,gyms,https://www.google.com/maps/search/gyms+Fez/
+Fez,malls,https://www.google.com/maps/search/malls+Fez/
+Fez,banks,https://www.google.com/maps/search/banks+Fez/
+Meknes,restaurants,https://www.google.com/maps/search/restaurants+Meknes/
+Meknes,hotels,https://www.google.com/maps/search/hotels+Meknes/
+Meknes,pharmacies,https://www.google.com/maps/search/pharmacies+Meknes/
+Meknes,supermarkets,https://www.google.com/maps/search/supermarkets+Meknes/
+Meknes,cafes,https://www.google.com/maps/search/cafes+Meknes/
+Meknes,schools,https://www.google.com/maps/search/schools+Meknes/
+Meknes,hospitals,https://www.google.com/maps/search/hospitals+Meknes/
+Meknes,gyms,https://www.google.com/maps/search/gyms+Meknes/
+Meknes,malls,https://www.google.com/maps/search/malls+Meknes/
+Meknes,banks,https://www.google.com/maps/search/banks+Meknes/
+Oujda,restaurants,https://www.google.com/maps/search/restaurants+Oujda/
+Oujda,hotels,https://www.google.com/maps/search/hotels+Oujda/
+Oujda,pharmacies,https://www.google.com/maps/search/pharmacies+Oujda/
+Oujda,supermarkets,https://www.google.com/maps/search/supermarkets+Oujda/
+Oujda,cafes,https://www.google.com/maps/search/cafes+Oujda/
+Oujda,schools,https://www.google.com/maps/search/schools+Oujda/
+Oujda,hospitals,https://www.google.com/maps/search/hospitals+Oujda/
+Oujda,gyms,https://www.google.com/maps/search/gyms+Oujda/
+Oujda,malls,https://www.google.com/maps/search/malls+Oujda/
+Oujda,banks,https://www.google.com/maps/search/banks+Oujda/
+Tetouan,restaurants,https://www.google.com/maps/search/restaurants+Tetouan/
+Tetouan,hotels,https://www.google.com/maps/search/hotels+Tetouan/
+Tetouan,pharmacies,https://www.google.com/maps/search/pharmacies+Tetouan/
+Tetouan,supermarkets,https://www.google.com/maps/search/supermarkets+Tetouan/
+Tetouan,cafes,https://www.google.com/maps/search/cafes+Tetouan/
+Tetouan,schools,https://www.google.com/maps/search/schools+Tetouan/
+Tetouan,hospitals,https://www.google.com/maps/search/hospitals+Tetouan/
+Tetouan,gyms,https://www.google.com/maps/search/gyms+Tetouan/
+Tetouan,malls,https://www.google.com/maps/search/malls+Tetouan/
+Tetouan,banks,https://www.google.com/maps/search/banks+Tetouan/
+Kenitra,restaurants,https://www.google.com/maps/search/restaurants+Kenitra/
+Kenitra,hotels,https://www.google.com/maps/search/hotels+Kenitra/
+Kenitra,pharmacies,https://www.google.com/maps/search/pharmacies+Kenitra/
+Kenitra,supermarkets,https://www.google.com/maps/search/supermarkets+Kenitra/
+Kenitra,cafes,https://www.google.com/maps/search/cafes+Kenitra/
+Kenitra,schools,https://www.google.com/maps/search/schools+Kenitra/
+Kenitra,hospitals,https://www.google.com/maps/search/hospitals+Kenitra/
+Kenitra,gyms,https://www.google.com/maps/search/gyms+Kenitra/
+Kenitra,malls,https://www.google.com/maps/search/malls+Kenitra/
+Kenitra,banks,https://www.google.com/maps/search/banks+Kenitra/
+Safi,restaurants,https://www.google.com/maps/search/restaurants+Safi/
+Safi,hotels,https://www.google.com/maps/search/hotels+Safi/
+Safi,pharmacies,https://www.google.com/maps/search/pharmacies+Safi/
+Safi,supermarkets,https://www.google.com/maps/search/supermarkets+Safi/
+Safi,cafes,https://www.google.com/maps/search/cafes+Safi/
+Safi,schools,https://www.google.com/maps/search/schools+Safi/
+Safi,hospitals,https://www.google.com/maps/search/hospitals+Safi/
+Safi,gyms,https://www.google.com/maps/search/gyms+Safi/
+Safi,malls,https://www.google.com/maps/search/malls+Safi/
+Safi,banks,https://www.google.com/maps/search/banks+Safi/
+Mohammedia,restaurants,https://www.google.com/maps/search/restaurants+Mohammedia/
+Mohammedia,hotels,https://www.google.com/maps/search/hotels+Mohammedia/
+Mohammedia,pharmacies,https://www.google.com/maps/search/pharmacies+Mohammedia/
+Mohammedia,supermarkets,https://www.google.com/maps/search/supermarkets+Mohammedia/
+Mohammedia,cafes,https://www.google.com/maps/search/cafes+Mohammedia/
+Mohammedia,schools,https://www.google.com/maps/search/schools+Mohammedia/
+Mohammedia,hospitals,https://www.google.com/maps/search/hospitals+Mohammedia/
+Mohammedia,gyms,https://www.google.com/maps/search/gyms+Mohammedia/
+Mohammedia,malls,https://www.google.com/maps/search/malls+Mohammedia/
+Mohammedia,banks,https://www.google.com/maps/search/banks+Mohammedia/
+El Jadida,restaurants,https://www.google.com/maps/search/restaurants+El+Jadida/
+El Jadida,hotels,https://www.google.com/maps/search/hotels+El+Jadida/
+El Jadida,pharmacies,https://www.google.com/maps/search/pharmacies+El+Jadida/
+El Jadida,supermarkets,https://www.google.com/maps/search/supermarkets+El+Jadida/
+El Jadida,cafes,https://www.google.com/maps/search/cafes+El+Jadida/
+El Jadida,schools,https://www.google.com/maps/search/schools+El+Jadida/
+El Jadida,hospitals,https://www.google.com/maps/search/hospitals+El+Jadida/
+El Jadida,gyms,https://www.google.com/maps/search/gyms+El+Jadida/
+El Jadida,malls,https://www.google.com/maps/search/malls+El+Jadida/
+El Jadida,banks,https://www.google.com/maps/search/banks+El+Jadida/
+Beni Mellal,restaurants,https://www.google.com/maps/search/restaurants+Beni+Mellal/
+Beni Mellal,hotels,https://www.google.com/maps/search/hotels+Beni+Mellal/
+Beni Mellal,pharmacies,https://www.google.com/maps/search/pharmacies+Beni+Mellal/
+Beni Mellal,supermarkets,https://www.google.com/maps/search/supermarkets+Beni+Mellal/
+Beni Mellal,cafes,https://www.google.com/maps/search/cafes+Beni+Mellal/
+Beni Mellal,schools,https://www.google.com/maps/search/schools+Beni+Mellal/
+Beni Mellal,hospitals,https://www.google.com/maps/search/hospitals+Beni+Mellal/
+Beni Mellal,gyms,https://www.google.com/maps/search/gyms+Beni+Mellal/
+Beni Mellal,malls,https://www.google.com/maps/search/malls+Beni+Mellal/
+Beni Mellal,banks,https://www.google.com/maps/search/banks+Beni+Mellal/
+Nador,restaurants,https://www.google.com/maps/search/restaurants+Nador/
+Nador,hotels,https://www.google.com/maps/search/hotels+Nador/
+Nador,pharmacies,https://www.google.com/maps/search/pharmacies+Nador/
+Nador,supermarkets,https://www.google.com/maps/search/supermarkets+Nador/
+Nador,cafes,https://www.google.com/maps/search/cafes+Nador/
+Nador,schools,https://www.google.com/maps/search/schools+Nador/
+Nador,hospitals,https://www.google.com/maps/search/hospitals+Nador/
+Nador,gyms,https://www.google.com/maps/search/gyms+Nador/
+Nador,malls,https://www.google.com/maps/search/malls+Nador/
+Nador,banks,https://www.google.com/maps/search/banks+Nador/
+Taza,restaurants,https://www.google.com/maps/search/restaurants+Taza/
+Taza,hotels,https://www.google.com/maps/search/hotels+Taza/
+Taza,pharmacies,https://www.google.com/maps/search/pharmacies+Taza/
+Taza,supermarkets,https://www.google.com/maps/search/supermarkets+Taza/
+Taza,cafes,https://www.google.com/maps/search/cafes+Taza/
+Taza,schools,https://www.google.com/maps/search/schools+Taza/
+Taza,hospitals,https://www.google.com/maps/search/hospitals+Taza/
+Taza,gyms,https://www.google.com/maps/search/gyms+Taza/
+Taza,malls,https://www.google.com/maps/search/malls+Taza/
+Taza,banks,https://www.google.com/maps/search/banks+Taza/
+Khouribga,restaurants,https://www.google.com/maps/search/restaurants+Khouribga/
+Khouribga,hotels,https://www.google.com/maps/search/hotels+Khouribga/
+Khouribga,pharmacies,https://www.google.com/maps/search/pharmacies+Khouribga/
+Khouribga,supermarkets,https://www.google.com/maps/search/supermarkets+Khouribga/
+Khouribga,cafes,https://www.google.com/maps/search/cafes+Khouribga/
+Khouribga,schools,https://www.google.com/maps/search/schools+Khouribga/
+Khouribga,hospitals,https://www.google.com/maps/search/hospitals+Khouribga/
+Khouribga,gyms,https://www.google.com/maps/search/gyms+Khouribga/
+Khouribga,malls,https://www.google.com/maps/search/malls+Khouribga/
+Khouribga,banks,https://www.google.com/maps/search/banks+Khouribga/
+Laayoune,restaurants,https://www.google.com/maps/search/restaurants+Laayoune/
+Laayoune,hotels,https://www.google.com/maps/search/hotels+Laayoune/
+Laayoune,pharmacies,https://www.google.com/maps/search/pharmacies+Laayoune/
+Laayoune,supermarkets,https://www.google.com/maps/search/supermarkets+Laayoune/
+Laayoune,cafes,https://www.google.com/maps/search/cafes+Laayoune/
+Laayoune,schools,https://www.google.com/maps/search/schools+Laayoune/
+Laayoune,hospitals,https://www.google.com/maps/search/hospitals+Laayoune/
+Laayoune,gyms,https://www.google.com/maps/search/gyms+Laayoune/
+Laayoune,malls,https://www.google.com/maps/search/malls+Laayoune/
+Laayoune,banks,https://www.google.com/maps/search/banks+Laayoune/
